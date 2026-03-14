@@ -7,7 +7,7 @@ CS @ Stevens Institute · Building things that matter
 ![SWE @ Blueprint](https://img.shields.io/badge/SWE-Blueprint-green)
 ![Hoboken NJ](https://img.shields.io/badge/Hoboken-NJ-lightgrey)
 
-Junior CS student at Stevens (GPA 3.8) obsessed with the intersection of software engineering and quantitative finance. I build full-stack apps, distributed trading systems, and ML pipelines — sometimes all at once.
+Sophomore CS student at Stevens (GPA 3.8) obsessed with the intersection of software engineering and quantitative finance. I build full-stack apps, distributed trading systems, and ML pipelines — sometimes all at once.
 
 ### by the numbers
 | | |
