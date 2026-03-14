@@ -2,6 +2,7 @@
 
 CS @ Stevens Institute · Building things that matter
 
+![Incoming SWE Intern @ North Atlantic Industries](https://img.shields.io/badge/Incoming_SWE_Intern-North_Atlantic_Industries-orange)
 ![Quant Research @ Rebellion Research](https://img.shields.io/badge/Quant_Research-Rebellion_Research-blue)
 ![SWE @ Blueprint](https://img.shields.io/badge/SWE-Blueprint-green)
 ![Hoboken NJ](https://img.shields.io/badge/Hoboken-NJ-lightgrey)
@@ -24,7 +25,3 @@ Junior CS student at Stevens (GPA 3.8) obsessed with the intersection of softwar
 ---
 [LinkedIn](https://linkedin.com/in/ariel-mir) · amiranda3@stevens.edu · Open to SWE & quant internships
 ```
-
-You can also add a GitHub stats card by dropping this line anywhere in the README:
-```
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyt4&show_icons=true&theme=default)
