@@ -1,11 +1,12 @@
 # hi, i'm ariel miranda
 
 CS @ Stevens Institute · Building things that matter
-![ Incoming SWE Intern @ Wells Fargo](https://img.shields.io/badge/Incoming_SWE_Intern-Wells Fargo-yellow)
-![SWE Intern @ North Atlantic Industries](https://img.shields.io/badge/Incoming_SWE_Intern-North_Atlantic_Industries-orange)
-![Quant Research @ Rebellion Research](https://img.shields.io/badge/Quant_Research-Rebellion_Research-blue)
+![Incoming SWE Intern @ Wells Fargo](https://img.shields.io/badge/Incoming_SWE_Intern-Wells_Fargo-yellow)
 ![SWE @ Blueprint](https://img.shields.io/badge/SWE-Blueprint-green)
-![Hoboken NJ](https://img.shields.io/badge/Hoboken-NJ-lightgrey)
+![SWE Intern @ North Atlantic Industries](https://img.shields.io/badge/SWE_Intern-North_Atlantic_Industries-orange)
+![Quant Research @ Rebellion Research](https://img.shields.io/badge/Quant_Research-Rebellion_Research-blue)
+![Brookhaven National Lab](https://img.shields.io/badge/Intern-Brookhaven_National_Lab-purple)
+![Hoboken, NJ](https://img.shields.io/badge/Hoboken-NJ-lightgrey)
 
 Junior CS student at Stevens obsessed with the intersection of software engineering and quantitative finance. I build full-stack apps, distributed trading systems, and ML pipelines — sometimes all at once.
 
