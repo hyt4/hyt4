@@ -3,8 +3,8 @@
 CS @ Stevens Institute · Building things that matter
 ![Incoming SWE Intern @ Wells Fargo](https://img.shields.io/badge/Incoming_SWE_Intern-Wells_Fargo-yellow)
 ![SWE @ Blueprint](https://img.shields.io/badge/SWE-Blueprint-green)
-![SWE Intern @ North Atlantic Industries](https://img.shields.io/badge/SWE_Intern-North_Atlantic_Industries-orange)
-![Quant Research @ Rebellion Research](https://img.shields.io/badge/Quant_Research-Rebellion_Research-blue)
+![Prev SWE Intern @ North Atlantic Industries](https://img.shields.io/badge/SWE_Intern-North_Atlantic_Industries-orange)
+![Prev Quant Research @ Rebellion Research](https://img.shields.io/badge/Quant_Research-Rebellion_Research-blue)
 ![Brookhaven National Lab](https://img.shields.io/badge/Intern-Brookhaven_National_Lab-purple)
 ![Hoboken, NJ](https://img.shields.io/badge/Hoboken-NJ-lightgrey)
 
