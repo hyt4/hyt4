@@ -1,7 +1,7 @@
 # hi, i'm ariel miranda
 
 CS @ Stevens Institute · Building things that matter
-![ Incoming SWE Intern @ Wells Fargo]
+![ Incoming SWE Intern @ Wells Fargo](https://img.shields.io/badge/Incoming_SWE_Intern-Wells Fargo-yellow)
 ![SWE Intern @ North Atlantic Industries](https://img.shields.io/badge/Incoming_SWE_Intern-North_Atlantic_Industries-orange)
 ![Quant Research @ Rebellion Research](https://img.shields.io/badge/Quant_Research-Rebellion_Research-blue)
 ![SWE @ Blueprint](https://img.shields.io/badge/SWE-Blueprint-green)
